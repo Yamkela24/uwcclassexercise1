@@ -1,0 +1,4 @@
+C:\Netprojects\ClassExerciseSIN\ClassExercise\obj\Debug\net8.0\ClassExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Netprojects\ClassExerciseSIN\ClassExercise\obj\Debug\net8.0\ClassExercise.AssemblyInfoInputs.cache
+C:\Netprojects\ClassExerciseSIN\ClassExercise\obj\Debug\net8.0\ClassExercise.AssemblyInfo.cs
+C:\Netprojects\ClassExerciseSIN\ClassExercise\obj\Debug\net8.0\ClassExercise.csproj.CoreCompileInputs.cache
